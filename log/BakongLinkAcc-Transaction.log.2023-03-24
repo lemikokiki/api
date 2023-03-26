@@ -1,0 +1,80 @@
+[ INFO]   2023-03-24 08:52:35 - user[0969647064] - [init-transaction]          {
+    "sourceAcc":"703700283907",
+    "destinationAcc":"chanda_moung@idbc",
+    "amount":10,
+    "currency":"USD",
+    "fee":0,
+    "description":"test bakong link transfer",
+    "status":"Pending",
+    "FT":"";
+}
+[ INFO]   2023-03-24 08:53:40 - user[0969647064] - [Finish-transaction]          {
+    "sourceAcc":"703700283907",
+    "destinationAcc":"chanda_moung@idbc",
+    "amount":10,
+    "currency":"USD",
+    "fee":0,
+    "description":"test bakong link transfer",
+    "status":"Success",
+    "FT":"FT2303496911";
+}
+[ INFO]   2023-03-24 09:58:34 - user[0969647064] - [init-transaction]          {
+    "sourceAcc":"703700283907",
+    "destinationAcc":"chanda_moung@idbc",
+    "amount":10,
+    "currency":"USD",
+    "fee":0,
+    "description":"test bakong link transfer",
+    "status":"Pending",
+    "FT":"";
+}
+[ INFO]   2023-03-24 09:58:53 - user[0969647064] - [Finish-transaction]          {
+    "sourceAcc":"703700283907",
+    "destinationAcc":"chanda_moung@idbc",
+    "amount":10,
+    "currency":"USD",
+    "fee":0,
+    "description":"test bakong link transfer",
+    "status":"Success",
+    "FT":"FT2303416933";
+}
+[ INFO]   2023-03-24 16:35:44 - user[0969647064] - [init-transaction]          {
+    "sourceAcc":"703700283907",
+    "destinationAcc":"chanda_moung@idbc",
+    "amount":10,
+    "currency":"USD",
+    "fee":0,
+    "description":"test bakong link transfer",
+    "status":"Pending",
+    "FT":"";
+}
+[ INFO]   2023-03-24 16:39:04 - user[0969647064] - [init-transaction]          {
+    "sourceAcc":"703700283907",
+    "destinationAcc":"chanda_moung@idbc",
+    "amount":10,
+    "currency":"USD",
+    "fee":0,
+    "description":"test bakong link transfer",
+    "status":"Pending",
+    "FT":"";
+}
+[ INFO]   2023-03-24 17:12:17 - user[0969647064] - [init-transaction]          {
+    "sourceAcc":"703700283907",
+    "destinationAcc":"chanda_moung@idbc",
+    "amount":10,
+    "currency":"USD",
+    "fee":0,
+    "description":"test bakong link transfer",
+    "status":"Pending",
+    "FT":"";
+}
+[ INFO]   2023-03-24 17:12:32 - user[0969647064] - [Finish-transaction]          {
+    "sourceAcc":"703700283907",
+    "destinationAcc":"chanda_moung@idbc",
+    "amount":10,
+    "currency":"USD",
+    "fee":0,
+    "description":"test bakong link transfer",
+    "status":"Success",
+    "FT":"FT2303460866";
+}

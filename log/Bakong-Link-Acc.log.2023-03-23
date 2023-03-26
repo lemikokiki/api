@@ -1,0 +1,418 @@
+[ INFO]   2023-03-23 08:50:50 - user[0969647064] - [             init-link-account]   Request log data    {"loginType":"USER_PWD","login":"0969647064","key":"8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92","bakongAccId":"chanda_moung@idbc","phoneNumber":"855969647064"}
+[ INFO]   2023-03-23 08:50:51 - user[0969647064] - [             init-link-account]   Response log data   {
+                                "status":{
+                                    "code":0,
+                                    "errorCode":null,
+                                    "errorMessage":null
+                                },
+                                "data":{
+                                    "accessToken":"eyJ0eXAiOiJKV1QiLCJhbGciOiJzaGEyNTYifQ==.eyJzdWIiOiJjaGFuZGFfbW91bmdAaWRiYyIsImF1dGgiOlsiY2FuX2dldF9iYWxhbmNlIiwiY2FuX3RvcF91cCJdLCJleHAiOjE2OTU0MzAyNTB9.oO1IfQM6uQdgQbdlNuseI8I5O3m6m0vv7alapH1maZ0=",
+                                    "requireOtp":true,
+                                    "requireChangePhone":false,
+                                    "last3DigitPhone":"064"
+                                }
+                            }
+[ INFO]   2023-03-23 09:19:23 - user[0969647064] - [             init-link-account]   Request log data    {"loginType":"USER_PWD","login":"0969647064","key":"8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92","bakongAccId":"chanda_moung@idbc","phoneNumber":"855969647064"}
+[ INFO]   2023-03-23 09:19:23 - user[0969647064] - [             init-link-account]   Response log data   {
+                                "status":{
+                                    "code":0,
+                                    "errorCode":null,
+                                    "errorMessage":null
+                                },
+                                "data":{
+                                    "accessToken":"eyJ0eXAiOiJKV1QiLCJhbGciOiJzaGEyNTYifQ==.eyJzdWIiOiJjaGFuZGFfbW91bmdAaWRiYyIsImF1dGgiOlsiY2FuX2dldF9iYWxhbmNlIiwiY2FuX3RvcF91cCJdLCJleHAiOjE2OTU0MzAyNTB9.oO1IfQM6uQdgQbdlNuseI8I5O3m6m0vv7alapH1maZ0=",
+                                    "requireOtp":true,
+                                    "requireChangePhone":false,
+                                    "last3DigitPhone":"064"
+                                }
+                            }
+[ INFO]   2023-03-23 09:19:52 - user[0969647064] - [             init-link-account]   Request log data    {"loginType":"USER_PWD","login":"0969647064","key":"8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92","bakongAccId":"chanda_moung@idbc","phoneNumber":"855969647064"}
+[ INFO]   2023-03-23 09:19:52 - user[0969647064] - [             init-link-account]   Response log data   {
+                                "status":{
+                                    "code":0,
+                                    "errorCode":null,
+                                    "errorMessage":null
+                                },
+                                "data":{
+                                    "accessToken":"eyJ0eXAiOiJKV1QiLCJhbGciOiJzaGEyNTYifQ==.eyJzdWIiOiJjaGFuZGFfbW91bmdAaWRiYyIsImF1dGgiOlsiY2FuX2dldF9iYWxhbmNlIiwiY2FuX3RvcF91cCJdLCJleHAiOjE2OTU0MzAyNTB9.oO1IfQM6uQdgQbdlNuseI8I5O3m6m0vv7alapH1maZ0=",
+                                    "requireOtp":true,
+                                    "requireChangePhone":false,
+                                    "last3DigitPhone":"064"
+                                }
+                            }
+[ INFO]   2023-03-23 09:21:20 - user[0969647064] - [             init-link-account]   Request log data    {"loginType":"USER_PWD","login":"0969647064","key":"8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92","bakongAccId":"chanda_moung@idbc","phoneNumber":"855969647064"}
+[ INFO]   2023-03-23 09:21:21 - user[0969647064] - [             init-link-account]   Response log data   {
+                                "status":{
+                                    "code":0,
+                                    "errorCode":null,
+                                    "errorMessage":null
+                                },
+                                "data":{
+                                    "accessToken":"eyJ0eXAiOiJKV1QiLCJhbGciOiJzaGEyNTYifQ==.eyJzdWIiOiJjaGFuZGFfbW91bmdAaWRiYyIsImF1dGgiOlsiY2FuX2dldF9iYWxhbmNlIiwiY2FuX3RvcF91cCJdLCJleHAiOjE2OTU0MzAyNTB9.oO1IfQM6uQdgQbdlNuseI8I5O3m6m0vv7alapH1maZ0=",
+                                    "requireOtp":true,
+                                    "requireChangePhone":false,
+                                    "last3DigitPhone":"064"
+                                }
+                            }
+[ INFO]   2023-03-23 09:27:25 - user[0969647064] - [             init-link-account]   Request log data    {"loginType":"USER_PWD","login":"0969647064","key":"8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92","bakongAccId":"chanda_moung@idbc","phoneNumber":"855969647064"}
+[ INFO]   2023-03-23 09:27:25 - user[0969647064] - [             init-link-account]   Response log data   {
+                                "status":{
+                                    "code":0,
+                                    "errorCode":null,
+                                    "errorMessage":null
+                                },
+                                "data":{
+                                    "accessToken":"eyJ0eXAiOiJKV1QiLCJhbGciOiJzaGEyNTYifQ==.eyJzdWIiOiJjaGFuZGFfbW91bmdAaWRiYyIsImF1dGgiOlsiY2FuX2dldF9iYWxhbmNlIiwiY2FuX3RvcF91cCJdLCJleHAiOjE2OTU0MzAyNTB9.oO1IfQM6uQdgQbdlNuseI8I5O3m6m0vv7alapH1maZ0=",
+                                    "requireOtp":true,
+                                    "requireChangePhone":false,
+                                    "last3DigitPhone":"064"
+                                }
+                            }
+[ INFO]   2023-03-23 09:27:36 - user[0969647064] - [                    verify-otp]   Request log data    {"otpCode":"123456"}
+[ INFO]   2023-03-23 09:27:36 - user[0969647064] - [                    verify-otp]   Response log data   {
+                                "status":{
+                                    "code":0,
+                                    "errorCode":null,
+                                    "errorMessage":null
+                                },
+                                "data":{
+                                    "isValid":true
+                                }
+                            }
+[ INFO]   2023-03-23 09:27:44 - user[0969647064] - [           finish-link-account]   Request log data    {"accNumber":"703700283907"}
+[ INFO]   2023-03-23 09:27:44 - user[0969647064] - [           finish-link-account]   Response log data   {
+                                            "status":{
+                                                "code":0,
+                                                "errorCode":null,
+                                                "errorMessage":null
+                                            },
+                                            "data":{
+                                                "requireChangePassword":false
+                                                }
+                                            }
+[ INFO]   2023-03-23 09:27:48 - user[0969647064] - [           finish-link-account]   Request log data    {"accNumber":"703700283907"}
+[ INFO]   2023-03-23 09:27:51 - user[0969647064] - [           finish-link-account]   Response log data   {
+                                            "status":{
+                                                "code":1,
+                                                "errorCode":15,
+                                                "errorMessage":"This account is already linked to another Bakong account."
+                                            },
+                                            "data":null
+                                        }
+[ INFO]   2023-03-23 09:27:58 - user[0969647064] - [           finish-link-account]   Request log data    {"accNumber":"703700283907"}
+[ INFO]   2023-03-23 09:27:58 - user[0969647064] - [           finish-link-account]   Response log data   {
+                                            "status":{
+                                                "code":1,
+                                                "errorCode":15,
+                                                "errorMessage":"This account is already linked to another Bakong account."
+                                            },
+                                            "data":null
+                                        }
+[ INFO]   2023-03-23 09:43:04 - user[0969647064] - [           finish-link-account]   Request log data    {"accNumber":"703700283907"}
+[ INFO]   2023-03-23 09:43:04 - user[0969647064] - [           finish-link-account]   Response log data   {
+                                            "status":{
+                                                "code":0,
+                                                "errorCode":null,
+                                                "errorMessage":null
+                                            },
+                                            "data":{
+                                                "requireChangePassword":false
+                                                }
+                                            }
+[ INFO]   2023-03-23 10:21:56 -   user[] - [                account-detail]   Request log data    {"accNumber":"703700283900"}
+[ INFO]   2023-03-23 10:21:56 -   user[] - [                account-detail]   Response log data   {
+            "status":{
+                "code":1,
+                "errorCode":7,
+                "errorMessage":"Token is invalid."
+            },
+            "data":null
+        }
+[ INFO]   2023-03-23 10:22:48 -   user[] - [                account-detail]   Request log data    {"accNumber":"703700283900"}
+[ INFO]   2023-03-23 10:22:48 -   user[] - [                account-detail]   Response log data   {
+            "status":{
+                "code":1,
+                "errorCode":7,
+                "errorMessage":"Token is invalid."
+            },
+            "data":null
+        }
+[ INFO]   2023-03-23 10:22:59 -   user[] - [                account-detail]   Request log data    {"accNumber":"703700283900"}
+[ INFO]   2023-03-23 10:22:59 -   user[] - [                account-detail]   Response log data   {
+            "status":{
+                "code":1,
+                "errorCode":7,
+                "errorMessage":"Token is invalid."
+            },
+            "data":null
+        }
+[ INFO]   2023-03-23 10:51:22 - user[0969647064] - [             init-link-account]   Request log data    {"loginType":"USER_PWD","login":"0969647064","key":"8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92","bakongAccId":"chanda_moung@idbc","phoneNumber":"855969647064"}
+[ INFO]   2023-03-23 10:51:23 - user[0969647064] - [             init-link-account]   Response log data   {
+                                "status":{
+                                    "code":0,
+                                    "errorCode":null,
+                                    "errorMessage":null
+                                },
+                                "data":{
+                                    "accessToken":"eyJ0eXAiOiJKV1QiLCJhbGciOiJzaGEyNTYifQ==.eyJzdWIiOiJjaGFuZGFfbW91bmdAaWRiYyIsImF1dGgiOlsiY2FuX2dldF9iYWxhbmNlIiwiY2FuX3RvcF91cCJdLCJleHAiOjE2OTU0MzAyNTB9.oO1IfQM6uQdgQbdlNuseI8I5O3m6m0vv7alapH1maZ0=",
+                                    "requireOtp":true,
+                                    "requireChangePhone":false,
+                                    "last3DigitPhone":"064"
+                                }
+                            }
+[ INFO]   2023-03-23 14:00:43 - user[0969647064] - [             init-link-account]   Request log data    {"loginType":"USER_PWD","login":"0969647064","key":"8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92","bakongAccId":"chanda_moung@idbc","phoneNumber":"855969647064"}
+[ INFO]   2023-03-23 14:00:44 - user[0969647064] - [             init-link-account]   Response log data   {
+                                "status":{
+                                    "code":0,
+                                    "errorCode":null,
+                                    "errorMessage":null
+                                },
+                                "data":{
+                                    "accessToken":"eyJ0eXAiOiJKV1QiLCJhbGciOiJzaGEyNTYifQ==.eyJzdWIiOiJjaGFuZGFfbW91bmdAaWRiYyIsImF1dGgiOlsiY2FuX2dldF9iYWxhbmNlIiwiY2FuX3RvcF91cCJdLCJleHAiOjE2OTU0MzAyNTB9.oO1IfQM6uQdgQbdlNuseI8I5O3m6m0vv7alapH1maZ0=",
+                                    "requireOtp":true,
+                                    "requireChangePhone":false,
+                                    "last3DigitPhone":"064"
+                                }
+                            }
+[ INFO]   2023-03-23 14:00:58 - user[0969647064] - [                    verify-otp]   Request log data    {"otpCode":"123456"}
+[ INFO]   2023-03-23 14:00:59 - user[0969647064] - [                    verify-otp]   Response log data   {
+                                "status":{
+                                    "code":0,
+                                    "errorCode":null,
+                                    "errorMessage":null
+                                },
+                                "data":{
+                                    "isValid":true
+                                }
+                            }
+[ INFO]   2023-03-23 14:01:17 - user[0969647064] - [                    verify-otp]   Request log data    {"otpCode":"123456"}
+[ INFO]   2023-03-23 14:01:17 - user[0969647064] - [                    verify-otp]   Response log data   {
+                                "status":{
+                                    "code":0,
+                                    "errorCode":null,
+                                    "errorMessage":null
+                                },
+                                "data":{
+                                    "isValid":false
+                                }
+                            }
+[ INFO]   2023-03-23 14:01:24 - user[0969647064] - [             init-link-account]   Request log data    {"loginType":"USER_PWD","login":"0969647064","key":"8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92","bakongAccId":"chanda_moung@idbc","phoneNumber":"855969647064"}
+[ INFO]   2023-03-23 14:01:25 - user[0969647064] - [             init-link-account]   Response log data   {
+                                "status":{
+                                    "code":0,
+                                    "errorCode":null,
+                                    "errorMessage":null
+                                },
+                                "data":{
+                                    "accessToken":"eyJ0eXAiOiJKV1QiLCJhbGciOiJzaGEyNTYifQ==.eyJzdWIiOiJjaGFuZGFfbW91bmdAaWRiYyIsImF1dGgiOlsiY2FuX2dldF9iYWxhbmNlIiwiY2FuX3RvcF91cCJdLCJleHAiOjE2OTU0MzAyNTB9.oO1IfQM6uQdgQbdlNuseI8I5O3m6m0vv7alapH1maZ0=",
+                                    "requireOtp":true,
+                                    "requireChangePhone":false,
+                                    "last3DigitPhone":"064"
+                                }
+                            }
+[ INFO]   2023-03-23 14:01:34 - user[0969647064] - [                    verify-otp]   Request log data    {"otpCode":"12345y"}
+[ INFO]   2023-03-23 14:01:34 - user[0969647064] - [                    verify-otp]   Response log data   {
+                                "status":{
+                                    "code":0,
+                                    "errorCode":null,
+                                    "errorMessage":null
+                                },
+                                "data":{
+                                    "isValid":false
+                                }
+                            }
+[ INFO]   2023-03-23 14:01:47 - user[0969647064] - [                    verify-otp]   Request log data    {"otpCode":"12345"}
+[ INFO]   2023-03-23 14:01:47 - user[0969647064] - [                    verify-otp]   Response log data   {
+                                "status":{
+                                    "code":0,
+                                    "errorCode":null,
+                                    "errorMessage":null
+                                },
+                                "data":{
+                                    "isValid":false
+                                }
+                            }
+[ INFO]   2023-03-23 14:02:03 - user[0969647064] - [                    verify-otp]   Request log data    {"otpCode":"12345"}
+[ INFO]   2023-03-23 14:02:04 - user[0969647064] - [                    verify-otp]   Response log data   {
+                                "status":{
+                                    "code":0,
+                                    "errorCode":null,
+                                    "errorMessage":null
+                                },
+                                "data":{
+                                    "isValid":false
+                                }
+                            }
+[ INFO]   2023-03-23 14:02:20 - user[0969647064] - [                    verify-otp]   Request log data    {"otpCode":"12345"}
+[ INFO]   2023-03-23 14:02:20 - user[0969647064] - [                    verify-otp]   Response log data   {
+                                "status":{
+                                    "code":0,
+                                    "errorCode":null,
+                                    "errorMessage":null
+                                },
+                                "data":{
+                                    "isValid":false
+                                }
+                            }
+[ INFO]   2023-03-23 14:04:23 - user[0969647064] - [                    verify-otp]   Request log data    {"otpCode":"12345"}
+[ INFO]   2023-03-23 14:04:23 - user[0969647064] - [                    verify-otp]   Response log data   {
+                            "status":{
+                                "code":0,
+                                "errorCode":null,
+                                "errorMessage":null
+                            },
+                            "data":{
+                                "isValid":false
+                            }
+                        }
+[ INFO]   2023-03-23 14:04:28 - user[0969647064] - [                    verify-otp]   Request log data    {"otpCode":"123456"}
+[ INFO]   2023-03-23 14:04:28 - user[0969647064] - [                    verify-otp]   Response log data   {
+                                    "status":{
+                                        "code":0,
+                                        "errorCode":null,
+                                        "errorMessage":null
+                                    },
+                                    "data":{
+                                        "isValid":true
+                                    }
+                                }
+[ INFO]   2023-03-23 14:13:31 - user[0969647064] - [             init-link-account]   Request log data    {"loginType":"USER_PWD","login":"0969647064","key":"8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92","bakongAccId":"chanda_moung@idbc","phoneNumber":"855969647064"}
+[ INFO]   2023-03-23 14:13:31 - user[0969647064] - [             init-link-account]   Response log data   {
+                        "status":{
+                            "code":1,
+                            "errorCode":1,
+                            "errorMessage":"Internal server error."
+                        },
+                        "data":null
+                    }
+[ INFO]   2023-03-23 14:14:41 - user[0969647064] - [             init-link-account]   Request log data    {"loginType":"USER_PWD","login":"0969647064","key":"8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92","bakongAccId":"chanda_moung@idbc","phoneNumber":"855969647064"}
+[ INFO]   2023-03-23 14:14:41 - user[0969647064] - [             init-link-account]   Response log data   {
+                        "status":{
+                            "code":1,
+                            "errorCode":1,
+                            "errorMessage":"Internal server error."
+                        },
+                        "data":null
+                    }
+[ INFO]   2023-03-23 14:15:34 - user[0969647064] - [             init-link-account]   Request log data    {"loginType":"USER_PWD","login":"0969647064","key":"8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92","bakongAccId":"chanda_moung@idbc","phoneNumber":"855969647064"}
+[ INFO]   2023-03-23 14:15:35 - user[0969647064] - [             init-link-account]   Response log data   {
+                        "status":{
+                            "code":1,
+                            "errorCode":1,
+                            "errorMessage":"Internal server error."
+                        },
+                        "data":null
+                    }
+[ INFO]   2023-03-23 14:16:44 - user[0969647064] - [             init-link-account]   Request log data    {"loginType":"USER_PWD","login":"0969647064","key":"8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92","bakongAccId":"chanda_moung@idbc","phoneNumber":"855969647064"}
+[ INFO]   2023-03-23 14:16:45 - user[0969647064] - [             init-link-account]   Response log data   {
+                        "status":{
+                            "code":1,
+                            "errorCode":1,
+                            "errorMessage":"Internal server error."
+                        },
+                        "data":null
+                    }
+[ INFO]   2023-03-23 14:21:12 - user[0969647064] - [                account-detail]   Request log data    {"accNumber":"703700283907"}
+[ INFO]   2023-03-23 14:21:12 - user[0969647064] - [                account-detail]   Response log data   {
+                                            "status":{
+                                                "code":0,
+                                                "errorCode":null,
+                                                "errorMessage":null
+                                            },
+                                            "data":{
+                                                "accNumber":"703700283907",
+                                                "accName":"MOUNG CHANDA",
+                                                "accPhone":"0969647064",
+                                                "accType":"CURRENT",
+                                                "accCcy":"USD",
+                                                "accStatus":"ACTIVE",
+                                                "kycStatus":"FULL",
+                                                "country":"KH",
+                                                "balance":198.91,
+                                                "limit":{
+                                                    "minTrxAmount":0,
+                                                    "maxTrxAmount":10000
+                                                }
+                                            }
+                                        }
+[ INFO]   2023-03-23 15:47:21 - user[0969647064] - [           finish-link-account]   Request log data    {"accNumber":"703700283907"}
+[ INFO]   2023-03-23 15:47:21 - user[0969647064] - [           finish-link-account]   Response log data   {
+                            "status":{
+                                "code":1,
+                                "errorCode":15,
+                                "errorMessage":"This account is already linked to another Bakong account."
+                            },
+                            "data":null
+                        }
+[ INFO]   2023-03-23 15:47:34 - user[0969647064] - [           finish-link-account]   Request log data    {"accNumber":"703700283907"}
+[ INFO]   2023-03-23 15:48:16 - user[0969647064] - [           finish-link-account]   Request log data    {"accNumber":"703700283907"}
+[ INFO]   2023-03-23 15:48:16 - user[0969647064] - [           finish-link-account]   Response log data   {
+                            "status":{
+                                "code":1,
+                                "errorCode":15,
+                                "errorMessage":"This account is already linked to another Bakong account."
+                            },
+                            "data":null
+                        }
+[ INFO]   2023-03-23 15:48:30 - user[0969647064] - [           finish-link-account]   Request log data    {"accNumber":"703700283907"}
+[ INFO]   2023-03-23 15:48:32 - user[0969647064] - [           finish-link-account]   Response log data   {
+                                            "status":{
+                                                "code":0,
+                                                "errorCode":null,
+                                                "errorMessage":null
+                                            },
+                                            "data":{
+                                                "requireChangePassword":false
+                                                }
+                                            }
+[ INFO]   2023-03-23 15:49:19 - user[0969647064] - [           finish-link-account]   Request log data    {"accNumber":"703700283907"}
+[ INFO]   2023-03-23 15:49:19 - user[0969647064] - [           finish-link-account]   Response log data   {
+                            "status":{
+                                "code":1,
+                                "errorCode":15,
+                                "errorMessage":"This account is already linked to another Bakong account."
+                            },
+                            "data":null
+                        }
+[ INFO]   2023-03-23 15:49:34 - user[0969647064] - [           finish-link-account]   Request log data    {"accNumber":"703700283907"}
+[ INFO]   2023-03-23 15:49:34 - user[0969647064] - [           finish-link-account]   Response log data   {
+                                            "status":{
+                                                "code":0,
+                                                "errorCode":null,
+                                                "errorMessage":null
+                                            },
+                                            "data":{
+                                                "requireChangePassword":false
+                                                }
+                                            }
+[ INFO]   2023-03-23 15:50:15 - user[0969647064] - [           finish-link-account]   Request log data    {"accNumber":"703700283907"}
+[ INFO]   2023-03-23 15:50:18 - user[0969647064] - [           finish-link-account]   Response log data   {
+                                            "status":{
+                                                "code":0,
+                                                "errorCode":null,
+                                                "errorMessage":null
+                                            },
+                                            "data":{
+                                                "requireChangePassword":false
+                                                }
+                                            }
+[ INFO]   2023-03-23 15:50:50 - user[0969647064] - [           finish-link-account]   Request log data    {"accNumber":"703700283907"}
+[ INFO]   2023-03-23 15:50:50 - user[0969647064] - [           finish-link-account]   Response log data   {
+                                            "status":{
+                                                "code":0,
+                                                "errorCode":null,
+                                                "errorMessage":null
+                                            },
+                                            "data":{
+                                                "requireChangePassword":false
+                                                }
+                                            }
+[ INFO]   2023-03-23 16:59:25 - user[0969647064] - [             init-link-account]   Request log data    {"loginType":"USER_PWD","login":"0969647064","key":"8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92","bakongAccId":"chanda_moung@idbc","phoneNumber":"855969647064"}
+[ INFO]   2023-03-23 16:59:25 - user[0969647064] - [             init-link-account]   Response log data   {
+                        "status":{
+                            "code":1,
+                            "errorCode":1,
+                            "errorMessage":"Internal server error."
+                        },
+                        "data":null
+                    }
